@@ -2,4 +2,5 @@
 
 ##Editing the file  
 
-Its a markdown file im=n this repository
+Its a markdown file in thi s repoitory.
+
